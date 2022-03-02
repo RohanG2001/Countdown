@@ -1,0 +1,80 @@
+ 
+body{ 
+    text-align: center; 
+    background-image: url(./images/cryptochic.jpeg);
+  font-family: Merriweather;
+  font-weight: 100; 
+  color: black;
+  background-size: cover;
+  } 
+h1{ 
+  color: rgba(240, 240, 240, 0.925); 
+  font-weight: 100; 
+  font-size: 40px; 
+  margin: 60px 0px 20px; 
+} 
+
+ #clockdiv{ 
+    font-family: sans-serif; 
+    color: rgb(0, 0, 0); 
+    display: inline-block; 
+    font-weight: 100; 
+    text-align: center; 
+    font-size: 30px; 
+    margin-top: 8%;
+} 
+#clockdiv > div{ 
+    padding: 10px; 
+    border-radius: 3px; 
+    background: #030303; 
+    display: inline-block; 
+} 
+#clockdiv div > span{ 
+    padding: 15px; 
+    border-radius: 3px; 
+    background: #a70000; 
+    display: inline-block; 
+} 
+.smalltext{ 
+    padding-top: 5px; 
+    font-size: 16px; 
+    font-family: 'Courier New', Courier, monospace;
+    color: #a70000;
+} 
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+  }
+  
+  a:visited {
+    color: #000;
+  }
+
+  a:active {
+    color: #000;
+  }
+
+.btn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: 	black;
+  font-size: 30px;
+  background: #ffa31a;
+  padding: 6px 15px 7px 16px;
+  text-decoration: none;
+  font-weight: 300;
+  transition: 0.3s;
+}
+
+.copyright {
+  color: whitesmoke;
+  font-size: 11px;
+  padding-top: 190px;
+}
+
+
+
